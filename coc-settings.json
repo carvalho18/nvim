@@ -1,0 +1,27 @@
+{
+    "languageserver": {
+
+    },
+
+    "coc.preferences.formatOnSaveFiletypes": [
+        "html",
+        "css"
+    ],
+
+    "trailingComma": "es5",
+    "tabWidth": 4,
+    "semi": false,
+    "singleQuote": false,
+
+    "pairs.enableCharacters": ["(", "[", "{", "'", "\"", "`"],
+
+    "explorer.width": 50,
+    "explorer.icon.enableNerdfont": true,
+    "explorer.previewAction.onHover": false,
+    "explorer.keyMappings.global": {
+        "<cr>": ["expandable?", "expand", "open"],
+        "v": "open:vsplit",
+        "h": "open:split"
+    },
+    "explorer.git.enable": true
+}
